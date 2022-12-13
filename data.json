@@ -3,53 +3,53 @@
     {
       "id": "1",
       "net_link": "10.0.1.1-254",
-      "branch_name": "24 Ип Валера"
+      "branch_name": "24 IP VALERA"
     },
     {
       "id": "2",
       "net_link": "10.0.2.1-254",
-      "branch_name": "23 Ип Валера"
+      "branch_name": "23 IP VALERA"
     },
     {
       "id": "3",
       "net_link": "10.0.3.1-254",
-      "branch_name": "25 Ип Валера"
+      "branch_name": "25 IP VALERA"
     },
     {
       "id": "4",
       "net_link": "10.0.4.1-254",
-      "branch_name": "26 Ип Валера"
+      "branch_name": "26 IP VALERA"
     },
     {
       "id": "5",
       "net_link": "10.0.5.1-254",
-      "branch_name": "22 Ип Валера"
+      "branch_name": "22 IP VALERA"
     }
   ],
   "objects": [
     {
-      "model": "dsf",
-      "serial_number": "sdf",
+      "model": "",
+      "serial_number": "",
       "net_link": "",
       "brench": ""
     },
     {
-      "model": "d",
-      "serial_number": "dfdg",
-      "net_link": "45645",
+      "model": "",
+      "serial_number": "",
+      "net_link": "",
       "brench": ""
     },
     {
-      "model": "d",
-      "serial_number": "dvbn",
-      "net_link": "213123",
+      "model": "",
+      "serial_number": "",
+      "net_link": "",
       "brench": ""
     },
     {
-      "model": "f",
-      "serial_number": "f",
-      "net_link": "fdf",
-      "brench": "sdf"
+      "model": "",
+      "serial_number": "",
+      "net_link": "",
+      "brench": ""
     }
   ]
 }
